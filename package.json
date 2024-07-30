@@ -1,0 +1,27 @@
+{
+  "name": "pagination_api",
+  "version": "1.0.0",
+  "description": "This is my simple pagination API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhdao/pagination_API.git"
+  },
+  "author": "nhdao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhdao/pagination_API/issues"
+  },
+  "homepage": "https://github.com/nhdao/pagination_API#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
